@@ -1,2 +1,2 @@
 # demo
-this is m
+this is my first gir repository
